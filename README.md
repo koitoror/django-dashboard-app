@@ -97,7 +97,7 @@ coverage report
 
 ## API Endpoints Documentation
 
-[API Documentation](dashboard-ke.herokuapp.com/) - Swagger UI
+[FRONTEND & API Documentation](https://dashboard-ke.herokuapp.com/dashboard/) - DASHBOARD FRONTEND UI
 
 ## Author
 
