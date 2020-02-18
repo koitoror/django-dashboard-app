@@ -1,2 +1,4 @@
 venv/
 *.pyc
+Pipfile.lock
+settings.json
